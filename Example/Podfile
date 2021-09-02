@@ -1,6 +1,0 @@
-use_frameworks!
-target 'NPWeChatOpenSDK_NoPay_Tests' do
-  pod 'NPWeChatOpenSDK_NoPay', :path => '../'
-  
-  
-end
